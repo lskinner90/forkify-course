@@ -11,10 +11,6 @@ import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 import recipeView from './views/recipeView.js';
 
-if (module.hot) {
-  module.hot.accept();
-}
-
 // https://forkify-api.herokuapp.com/v2
 
 ///////////////////////////////////////
