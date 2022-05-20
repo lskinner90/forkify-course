@@ -70,7 +70,7 @@ class RecipeView extends View {
             this._data.servings + 1
           }">
             <svg>
-              <use href="${icons}svg#icon-plus-circle"></use>
+              <use href="${icons}#icon-plus-circle"></use>
             </svg>
           </button>
         </div>
